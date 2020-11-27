@@ -7,7 +7,6 @@
         <groupId>com.shuyuan.judd</groupId>
         <artifactId>judd-parent2</artifactId>
         <version>1.0.0</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <artifactId>judd-oauth2</artifactId>
