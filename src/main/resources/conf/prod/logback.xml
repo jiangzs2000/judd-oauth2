@@ -67,10 +67,10 @@
 
     <logger name="com.shuyuan.judd.fundation.dataaccess.mapper" level="ERROR" />
 
-    <root level="INFO">
+    <root level="DEBUG">
         <appender-ref ref="FILE_INFO"/>
         <appender-ref ref="FILE_ERROR"/>
-        <!--appender-ref ref="STDOUT" /-->
+        <appender-ref ref="STDOUT" />
     </root>
 
 </configuration>
